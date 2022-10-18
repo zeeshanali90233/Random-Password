@@ -1,0 +1,30 @@
+.container{
+  box-sizing: border-box; 
+}
+
+
+.container{
+  background-color: rgb(243, 240, 240,0.4);
+  width: 40%;
+}
+
+
+.btn-container{
+  text-align: center;
+}
+
+.btn-container .btn-generate-password{
+  width: 100%;
+  padding: 10px 20px;
+  background-color: rgba(36, 36, 206, 0.904);
+  color: white;
+  border-radius: 20px;
+  font-size: larger;
+}
+
+
+.each-password p{
+  font-size: 1.5rem;
+  text-align: center;
+
+}
